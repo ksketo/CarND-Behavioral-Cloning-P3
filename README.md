@@ -17,7 +17,7 @@ The submission contains the following files:
 * `notebooks/Visualization.ipynb`: a Jupyter notebook with the code for generating the images used for the written report
 * `model.h5` : a file with the weights of the trained Keras model
 * `video.mp4` : a video with the car driving in track 1, generated with `python video.py video`
-* `writeup.md` : a report writeup file
+* `README.md` : a report writeup file
 
 ## Understanding Data
 
